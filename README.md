@@ -2,7 +2,7 @@
 ~~Drinking is an issue in UK so why don't I make a program including all drinking game lol~~
 
 ## Disclaimer (Important)
-This is just a **summer holidey project** for myself and it is **definately not aiming to promote alcholism**. If you, or someone you know is suffering from any kind of alcohol or drug abuse, please seek for help **ASAP**. Here is a list of information from different countries on alcohol/drug abuse:<br/>
+This is just a **summer holiday project** for myself and it is **definately not aimed to promote alcholism or drug abuse**. If you, or someone you know is suffering from any kind of alcohol or drug abuse, please seek for help **ASAP**. Here is a list of information from different countries on alcohol/drug abuse:<br/>
 
 County/Region | Website
 -- | --
